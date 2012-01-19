@@ -16,4 +16,4 @@ PS1="$Purple[\t]$Color_Off \W"
 
 PS1+='$(__git_ps1 "$Blue:$Yellow%s$Color_Off")'
 
-PS1+="\$ "
+PS1+="$Blue\$$Color_Off "
