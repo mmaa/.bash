@@ -6,6 +6,8 @@ source /usr/local/etc/bash_completion.d/git-completion.bash
 source ~/.bash/prompt
 source ~/.bash/aliases
 
+export EDITOR=vim
+
 export CLICOLOR=1;
 
 export GREP_OPTIONS='--color=auto'
